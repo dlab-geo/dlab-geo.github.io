@@ -1,2 +1,3 @@
-# dlab-geo.github.io
-http://dlab-geo.github.io
+# dlab-static-template
+
+A good starting place for D-Lab static sites. Please add your own fanciness!
