@@ -1,10 +1,12 @@
 ---
-title: A D-Lab Static Site
+title: D-Lab Geo Site
 layout: default
 ---
-Put your content here! Use Markdown.
+Welcome to *D-Lab Geo*. This site contains materials related to D-Lab geospatial workshops and projects. For the main D-Lab website go to http://dlab.berkeley.edu.  Most of these materials are works in progress.
 
-- Bulleted lists are easy!
+### Workshop Materials
+
+### Projects
 - Links look like this [link to D-Lab](http://dlab.berkeley.edu)
 
 You can [edit a page directly on
