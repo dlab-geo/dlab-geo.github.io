@@ -6,7 +6,7 @@ Welcome to *D-Lab Geo*. This site contains materials related to D-Lab geospatial
 
 ### Workshop Materials
 
--  [RGeoPlotting Workshop](http://dlab.berkeley.edu)
+-  [RGeoPlotting Workshop](https://github.com/dlab-geo/RGeoPlotting)
 
 ### Projects
 
